@@ -1,164 +1,152 @@
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
+\usepackage[a4paper,left=81.42pt,right=81.42pt,top=80pt,bottom=93pt,headheight=24pt,headsep=24pt,footskip=32pt]{geometry}
 \usepackage{graphicx}
-\usepackage{eso-pic}
-\usepackage[absolute,overlay]{textpos}
-\usepackage{caption}
-\usepackage{needspace}
 \usepackage{xcolor}
+\usepackage{eso-pic}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{titletoc}
+\usepackage{enumitem}
+\usepackage{caption}
+\usepackage{etoolbox}
 
-\pagestyle{empty}
-\setlength{\parindent}{17.35pt}
-\setlength{\parskip}{0pt}
-\setlength{\emergencystretch}{2em}
 \graphicspath{{assets/}}
 \DeclareUnicodeCharacter{201C}{``}
 \DeclareUnicodeCharacter{201D}{''}
 \DeclareUnicodeCharacter{2013}{--}
 \DeclareUnicodeCharacter{2014}{---}
 \DeclareUnicodeCharacter{2019}{'}
+
+\setlength{\parindent}{17.35pt}
+\setlength{\parskip}{0pt}
+\setlength{\emergencystretch}{2em}
 \raggedbottom
 
-\setlength{\TPHorizModule}{1pt}
-\setlength{\TPVertModule}{1pt}
-\textblockorigin{0pt}{0pt}
-
 \newcommand{\fsbodyfont}{\fontsize{11.00pt}{16pt}\selectfont}
-\newcommand{\fssectionfont}{\fontsize{12.00pt}{12.00pt}\selectfont\bfseries}
-\newcommand{\fschapterfont}{\fontsize{20.74pt}{20.74pt}\selectfont\bfseries}
-\newcommand{\fschaptertitlefont}{\fontsize{24.88pt}{24.88pt}\selectfont\bfseries}
-\newcommand{\fstocfont}{\fontsize{10.00pt}{10.00pt}\selectfont\normalfont}
-\newcommand{\fstoctitlefont}{\fontsize{24.88pt}{24.88pt}\selectfont\bfseries}
-\newcommand{\fstocleader}{\leaders\hbox to 0.64em{\hss.\hss}\hfill}
+\newcommand{\fsfooterfont}{\fontsize{10.00pt}{10.00pt}\selectfont}
+\newcommand{\fsoverlayfont}{\fontsize{17.28pt}{17.28pt}\selectfont}
 
-\newcommand{\textat}[5]{\put(#1,-#2){\raisebox{-#3pt}{\hbox{{#4 #5}}}}}
-\newcommand{\imgat}[5]{\put(#1,-#2){\raisebox{-#4pt}{\includegraphics[width=#3pt,height=#4pt]{#5}}}}
-\newcommand{\drawline}[3]{\put(#1,-#2){\line(1,0){#3}}}
-\newcommand{\fsfooterline}[1]{%
-  \put(81.42,-748.49){%
-    \raisebox{-#1pt}{%
-      \hbox to 432.86pt{{\fstocfont Formula Student FEUP}\hfill{\fstocfont \thepage}}%
-    }%
-  }%
-}
+\AtBeginDocument{\fsbodyfont}
 
-\newcommand{\FSStandardOverlay}{%
+\AddToShipoutPictureBG{%
   \AtPageUpperLeft{%
-    \setlength{\unitlength}{1pt}%
-    \begin{picture}(0,0)%
-      \imgat{0}{0}{595.276}{841.89}{watermark_page.jpg}%
-      \imgat{81.4}{40.7}{88.7}{14.0}{fsfeup_black.png}%
-      \imgat{448.9}{40.7}{65.4}{14.0}{uporto.png}%
-      \linethickness{0.4pt}\drawline{81.4}{56.0}{432.9}%
-      \fsfooterline{10.01}%
-    \end{picture}%
+    \includegraphics[width=\paperwidth,height=\paperheight]{watermark_page.jpg}%
   }%
 }
 
-\newcommand{\FSOpenPage}[1]{%
-  \clearpage
-  \thispagestyle{empty}%
-  \AddToShipoutPictureFG*{#1}%
-  \null
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\includegraphics[width=88.7pt,height=14pt]{fsfeup_black.png}}
+\fancyhead[R]{\includegraphics[width=65.4pt,height=14pt]{uporto.png}}
+\renewcommand{\headrulewidth}{0.4pt}
+\fancyfoot[L]{{\fsfooterfont Formula Student FEUP}}
+\fancyfoot[R]{{\fsfooterfont \thepage}}
+\fancypagestyle{plain}{%
+  \fancyhf{}%
+  \fancyhead[L]{\includegraphics[width=88.7pt,height=14pt]{fsfeup_black.png}}%
+  \fancyhead[R]{\includegraphics[width=65.4pt,height=14pt]{uporto.png}}%
+  \renewcommand{\headrulewidth}{0.4pt}%
+  \fancyfoot[L]{{\fsfooterfont Formula Student FEUP}}%
+  \fancyfoot[R]{{\fsfooterfont \thepage}}%
+}
+\fancypagestyle{cover}{%
+  \fancyhf{}%
+  \renewcommand{\headrulewidth}{0pt}%
 }
 
-\newenvironment{FSBodyPage}{%
-  \FSOpenPage{\FSStandardOverlay}%
-  \begin{textblock*}{432.86pt}(81.42pt,80.05pt)%
-    \fsbodyfont
-}{%
-  \end{textblock*}%
+\titleformat{\chapter}[display]
+  {\normalfont\fontsize{20.74pt}{22pt}\selectfont\bfseries}
+  {Chapter \thechapter}
+  {26pt}
+  {\fontsize{24.88pt}{27pt}\selectfont}
+\titlespacing*{\chapter}{0pt}{45pt}{35pt}
+
+\titleformat{\section}
+  {\normalfont\fontsize{12pt}{15pt}\selectfont\bfseries}
+  {\thesection}
+  {0.65em}
+  {}
+\titlespacing*{\section}{0pt}{24pt}{10pt}
+
+\titleformat{\subsection}
+  {\normalfont\fontsize{11pt}{15pt}\selectfont\bfseries}
+  {\thesubsection}
+  {0.65em}
+  {}
+\titlespacing*{\subsection}{0pt}{18pt}{8pt}
+
+\titleformat{\subsubsection}
+  {\normalfont\fontsize{11pt}{15pt}\selectfont\bfseries}
+  {\thesubsubsection}
+  {0.65em}
+  {}
+\titlespacing*{\subsubsection}{0pt}{14pt}{6pt}
+
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{2}
+
+\renewcommand{\contentsname}{Contents}
+\titlecontents{chapter}
+  [0pt]
+  {\addvspace{10pt}\bfseries}
+  {\makebox[2em][l]{\thecontentslabel}}
+  {}
+  {\titlerule*[0.64em]{.}\contentspage}
+\titlecontents{section}
+  [1.5em]
+  {}
+  {\contentslabel{2.2em}}
+  {}
+  {\titlerule*[0.64em]{.}\contentspage}
+\titlecontents{subsection}
+  [3.7em]
+  {}
+  {\contentslabel{3.0em}}
+  {}
+  {\titlerule*[0.64em]{.}\contentspage}
+
+\setlist[description]{
+  font=\normalfont\bfseries,
+  style=standard,
+  leftmargin=0pt,
+  labelsep=0.6em,
+  itemindent=0pt,
+  itemsep=5pt,
+  topsep=5pt,
+  parsep=0pt
 }
 
-\newenvironment{FSChapterPage}[2]{%
-  \FSOpenPage{\FSStandardOverlay}%
-  \begin{textblock*}{432.86pt}(81.42pt,148.77pt)%
-    \fsbodyfont
-    {\fschapterfont Chapter #1\par}%
-    \vspace{26pt}%
-    {\fschaptertitlefont #2\par}%
-    \vspace{25pt}%
-}{%
-  \end{textblock*}%
+\setlist[enumerate]{
+  leftmargin=*,
+  itemsep=4pt,
+  topsep=4pt,
+  parsep=0pt,
+  partopsep=0pt
 }
+\setlist[enumerate,1]{label=\thesection.\arabic*, ref=\thesection.\arabic*}
+\setlist[enumerate,2]{label=\theenumi.\arabic*, ref=\theenumi.\arabic*}
+\setlist[enumerate,3]{label=\theenumii.\arabic*, ref=\theenumii.\arabic*}
+\setlist[enumerate,4]{label=\theenumiii.\arabic*, ref=\theenumiii.\arabic*}
 
-\newenvironment{FSTocPage}{%
-  \FSOpenPage{\FSStandardOverlay}%
-  \begin{textblock*}{432.86pt}(81.42pt,139.43pt)%
-    \fstocfont
-}{%
-  \end{textblock*}%
-}
-
-\newcommand{\FSMaybeLabel}[1]{%
-  \if\relax\detokenize{#1}\relax\else\label{#1}\fi
-}
-
-\newcommand{\FSSectionStart}[2][]{%
-  \par\noindent{\fssectionfont #2\par}%
-  \FSMaybeLabel{#1}%
-  \vspace{13.34pt}%
-}
-
-\newcommand{\FSSection}[2][]{%
-  \par\vspace{27pt}%
-  \FSSectionStart[#1]{#2}%
-}
-
-\newcommand{\FSSubsectionStart}[2][]{%
-  \par\noindent{\fssectionfont #2\par}%
-  \FSMaybeLabel{#1}%
-  \vspace{8pt}%
-}
-
-\newcommand{\FSSubsection}[2][]{%
-  \par\vspace{20pt}%
-  \FSSubsectionStart[#1]{#2}%
-}
-
-\newcommand{\FSRule}[3][0pt]{%
-  \par\noindent
-  \hspace*{#1}%
-  \hangindent=\dimexpr #1 + 28pt\relax
-  \hangafter=1
-  #2\ #3\par
-}
-
-\newcommand{\FSRuleA}[2]{\FSRule[0pt]{#1}{#2}}
-\newcommand{\FSRuleB}[2]{\FSRule[28.03pt]{#1}{#2}}
-\newcommand{\FSRuleC}[2]{\FSRule[64.73pt]{#1}{#2}}
-\newcommand{\FSRuleD}[2]{\FSRule[109.44pt]{#1}{#2}}
-
-\newcommand{\FSTerm}[2]{%
-  \par\noindent\textbf{#1}\ #2\par
+\newcommand{\covertext}[4]{%
+  \put(#1,-#2){\raisebox{-#3pt}{\hbox{{#4}}}}%
 }
 
 \newcommand{\FSCoverPage}{%
-  \FSOpenPage{%
-    \AtPageUpperLeft{%
-      \setlength{\unitlength}{1pt}%
-      \begin{picture}(0,0)%
-        \imgat{0}{0}{595.276}{841.89}{watermark_page.jpg}%
-        \imgat{89.0}{174.0}{417.5}{66.6}{fsfeup_black.png}%
-        \textat{98.10}{77.38}{15.34}{\fontsize{17.28pt}{17.28pt}\selectfont\normalfont\bfseries}{Regulamento Geral da Formula Student FEUP}%
-        \textat{204.88}{329.55}{15.34}{\fontsize{17.28pt}{17.28pt}\selectfont\normalfont}{Formula Student FEUP 03}%
-        \textat{271.61}{675.78}{10.67}{\fontsize{12.00pt}{12.00pt}\selectfont\normalfont}{2025/2026}%
-      \end{picture}%
+  \begin{titlepage}
+    \thispagestyle{cover}%
+    \AddToShipoutPictureFG*{%
+      \AtPageUpperLeft{%
+        \setlength{\unitlength}{1pt}%
+        \begin{picture}(0,0)%
+          \put(89,-240.6){\includegraphics[width=417.5pt,height=66.6pt]{fsfeup_black.png}}%
+          \covertext{98.10}{77.38}{15.34}{\fsoverlayfont\bfseries Regulamento Geral da Formula Student FEUP}%
+          \covertext{204.88}{329.55}{15.34}{\fsoverlayfont Formula Student FEUP 03}%
+          \covertext{271.61}{675.78}{10.67}{\fontsize{12pt}{12pt}\selectfont 2025/2026}%
+        \end{picture}%
+      }%
     }%
-  }%
-}
-
-\newcommand{\FSTocTitle}[1]{%
-  {\fstoctitlefont #1\par}%
-  \vspace{40pt}%
-}
-
-\newcommand{\FSTocChapter}[2]{%
-  \par\noindent
-  \makebox[\linewidth][l]{\textbf{#1}\hfill\textbf{\pageref{#2}}}\par
-}
-
-\newcommand{\FSTocEntry}[3][16.68pt]{%
-  \par\noindent
-  \hspace*{#1}#2\ \fstocleader\pageref{#3}\par
+    \null
+  \end{titlepage}
 }

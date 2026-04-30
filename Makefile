@@ -1,9 +1,7 @@
 all: main.pdf
 
-main.pdf: main.tex
-	pdflatex -interaction=nonstopmode main.tex
-	pdflatex -interaction=nonstopmode main.tex
-	pdflatex -interaction=nonstopmode main.tex
+main.pdf: main.tex styles/document.tex frontmatter/cover.tex chapters/*.tex
+	latexmk -pdf -synctex=1 -interaction=nonstopmode main.tex
 
 clean:
-	rm -f *.aux *.log *.out *.toc *.pdf
+	latexmk -C main.tex
