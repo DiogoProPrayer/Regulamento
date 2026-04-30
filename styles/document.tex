@@ -1,0 +1,164 @@
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{eso-pic}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{caption}
+\usepackage{needspace}
+\usepackage{xcolor}
+
+\pagestyle{empty}
+\setlength{\parindent}{17.35pt}
+\setlength{\parskip}{0pt}
+\setlength{\emergencystretch}{2em}
+\graphicspath{{assets/}}
+\DeclareUnicodeCharacter{201C}{``}
+\DeclareUnicodeCharacter{201D}{''}
+\DeclareUnicodeCharacter{2013}{--}
+\DeclareUnicodeCharacter{2014}{---}
+\DeclareUnicodeCharacter{2019}{'}
+\raggedbottom
+
+\setlength{\TPHorizModule}{1pt}
+\setlength{\TPVertModule}{1pt}
+\textblockorigin{0pt}{0pt}
+
+\newcommand{\fsbodyfont}{\fontsize{11.00pt}{16pt}\selectfont}
+\newcommand{\fssectionfont}{\fontsize{12.00pt}{12.00pt}\selectfont\bfseries}
+\newcommand{\fschapterfont}{\fontsize{20.74pt}{20.74pt}\selectfont\bfseries}
+\newcommand{\fschaptertitlefont}{\fontsize{24.88pt}{24.88pt}\selectfont\bfseries}
+\newcommand{\fstocfont}{\fontsize{10.00pt}{10.00pt}\selectfont\normalfont}
+\newcommand{\fstoctitlefont}{\fontsize{24.88pt}{24.88pt}\selectfont\bfseries}
+\newcommand{\fstocleader}{\leaders\hbox to 0.64em{\hss.\hss}\hfill}
+
+\newcommand{\textat}[5]{\put(#1,-#2){\raisebox{-#3pt}{\hbox{{#4 #5}}}}}
+\newcommand{\imgat}[5]{\put(#1,-#2){\raisebox{-#4pt}{\includegraphics[width=#3pt,height=#4pt]{#5}}}}
+\newcommand{\drawline}[3]{\put(#1,-#2){\line(1,0){#3}}}
+\newcommand{\fsfooterline}[1]{%
+  \put(81.42,-748.49){%
+    \raisebox{-#1pt}{%
+      \hbox to 432.86pt{{\fstocfont Formula Student FEUP}\hfill{\fstocfont \thepage}}%
+    }%
+  }%
+}
+
+\newcommand{\FSStandardOverlay}{%
+  \AtPageUpperLeft{%
+    \setlength{\unitlength}{1pt}%
+    \begin{picture}(0,0)%
+      \imgat{0}{0}{595.276}{841.89}{watermark_page.jpg}%
+      \imgat{81.4}{40.7}{88.7}{14.0}{fsfeup_black.png}%
+      \imgat{448.9}{40.7}{65.4}{14.0}{uporto.png}%
+      \linethickness{0.4pt}\drawline{81.4}{56.0}{432.9}%
+      \fsfooterline{10.01}%
+    \end{picture}%
+  }%
+}
+
+\newcommand{\FSOpenPage}[1]{%
+  \clearpage
+  \thispagestyle{empty}%
+  \AddToShipoutPictureFG*{#1}%
+  \null
+}
+
+\newenvironment{FSBodyPage}{%
+  \FSOpenPage{\FSStandardOverlay}%
+  \begin{textblock*}{432.86pt}(81.42pt,80.05pt)%
+    \fsbodyfont
+}{%
+  \end{textblock*}%
+}
+
+\newenvironment{FSChapterPage}[2]{%
+  \FSOpenPage{\FSStandardOverlay}%
+  \begin{textblock*}{432.86pt}(81.42pt,148.77pt)%
+    \fsbodyfont
+    {\fschapterfont Chapter #1\par}%
+    \vspace{26pt}%
+    {\fschaptertitlefont #2\par}%
+    \vspace{25pt}%
+}{%
+  \end{textblock*}%
+}
+
+\newenvironment{FSTocPage}{%
+  \FSOpenPage{\FSStandardOverlay}%
+  \begin{textblock*}{432.86pt}(81.42pt,139.43pt)%
+    \fstocfont
+}{%
+  \end{textblock*}%
+}
+
+\newcommand{\FSMaybeLabel}[1]{%
+  \if\relax\detokenize{#1}\relax\else\label{#1}\fi
+}
+
+\newcommand{\FSSectionStart}[2][]{%
+  \par\noindent{\fssectionfont #2\par}%
+  \FSMaybeLabel{#1}%
+  \vspace{13.34pt}%
+}
+
+\newcommand{\FSSection}[2][]{%
+  \par\vspace{27pt}%
+  \FSSectionStart[#1]{#2}%
+}
+
+\newcommand{\FSSubsectionStart}[2][]{%
+  \par\noindent{\fssectionfont #2\par}%
+  \FSMaybeLabel{#1}%
+  \vspace{8pt}%
+}
+
+\newcommand{\FSSubsection}[2][]{%
+  \par\vspace{20pt}%
+  \FSSubsectionStart[#1]{#2}%
+}
+
+\newcommand{\FSRule}[3][0pt]{%
+  \par\noindent
+  \hspace*{#1}%
+  \hangindent=\dimexpr #1 + 28pt\relax
+  \hangafter=1
+  #2\ #3\par
+}
+
+\newcommand{\FSRuleA}[2]{\FSRule[0pt]{#1}{#2}}
+\newcommand{\FSRuleB}[2]{\FSRule[28.03pt]{#1}{#2}}
+\newcommand{\FSRuleC}[2]{\FSRule[64.73pt]{#1}{#2}}
+\newcommand{\FSRuleD}[2]{\FSRule[109.44pt]{#1}{#2}}
+
+\newcommand{\FSTerm}[2]{%
+  \par\noindent\textbf{#1}\ #2\par
+}
+
+\newcommand{\FSCoverPage}{%
+  \FSOpenPage{%
+    \AtPageUpperLeft{%
+      \setlength{\unitlength}{1pt}%
+      \begin{picture}(0,0)%
+        \imgat{0}{0}{595.276}{841.89}{watermark_page.jpg}%
+        \imgat{89.0}{174.0}{417.5}{66.6}{fsfeup_black.png}%
+        \textat{98.10}{77.38}{15.34}{\fontsize{17.28pt}{17.28pt}\selectfont\normalfont\bfseries}{Regulamento Geral da Formula Student FEUP}%
+        \textat{204.88}{329.55}{15.34}{\fontsize{17.28pt}{17.28pt}\selectfont\normalfont}{Formula Student FEUP 03}%
+        \textat{271.61}{675.78}{10.67}{\fontsize{12.00pt}{12.00pt}\selectfont\normalfont}{2025/2026}%
+      \end{picture}%
+    }%
+  }%
+}
+
+\newcommand{\FSTocTitle}[1]{%
+  {\fstoctitlefont #1\par}%
+  \vspace{40pt}%
+}
+
+\newcommand{\FSTocChapter}[2]{%
+  \par\noindent
+  \makebox[\linewidth][l]{\textbf{#1}\hfill\textbf{\pageref{#2}}}\par
+}
+
+\newcommand{\FSTocEntry}[3][16.68pt]{%
+  \par\noindent
+  \hspace*{#1}#2\ \fstocleader\pageref{#3}\par
+}

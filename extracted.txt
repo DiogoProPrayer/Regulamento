@@ -1,0 +1,1039 @@
+Regulamento Geral da Formula Student FEUP
+
+Formula Student FEUP 03
+
+2025/2026
+
+Contents
+1 Preâmbulo
+
+1
+
+2 Equipa e Generalidades
+2
+2.1 Valores . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2.2 Missão . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+2.3 Visão . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
+2.4 Objetivos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.5 Denominação . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+2.6 Sede . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+2.7 Logótipo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+3 Estatutos
+6
+3.1 Arquitetura de equipa . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+3.1.1 Estatutos Pessoais . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+3.1.2 Estatutos de Grupo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+3.2 Estatutos Pessoais Executivos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+3.3 Estatutos Pessoais Não Executivos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+3.4 Estatutos de Grupo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+4 Reuniões
+15
+4.1 Reunião Geral (RGER) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+4.2 Reunião de Departamento (RDEP) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+4.3 Reunião de Acompanhamento (RACP) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+4.4 Reunião Inter-Subsystems (RISU) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+4.5 Reunião Externa (REXT) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+4.6 Reunião com Empresa (REMP) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+4.7 Reunião de Finanças (RFIN) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+4.8 Reunião de Direção (RDIR) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+4.9 Reunião de Board (RBOR) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+5 Direção e Board da equipa
+21
+5.1 Mandato . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+5.2 Eleições . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+5.3 Reconfigurações . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+6 Funcionamento de Equipa
+23
+6.1 Sanções . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+6.2 Demissões . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+6.3 Incompatibilidades . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Formula Student FEUP
+
+i
+
+6.4 Recrutamento . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+6.5 Instalações . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+6.6 Metodologia de decisão . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+6.7 Dissolução . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+6.8 Autonomização de Entidade . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+6.9 Receitas e Despesas . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+6.10 Conduzir o protótipo . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+6.11 Participação em competições . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+6.12 Manuseamento de património . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+6.13 Épocas Especiais . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+7 Sobre o Regulamento Geral
+29
+7.1 Vigência . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+7.2 Revisão . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+7.3 Casos Omissos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+7.4 Protocolos . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+
+Formula Student FEUP
+
+ii
+
+Chapter 1
+
+Preâmbulo
+Toda a organização requer uma forma e método de funcionamento, de modo a proporcionar um ecossistema que garanta que os seus objetivos são cumpridos, indo de encontro
+à Visão.
+Assim sendo, o Regulamento Geral da Formula Student FEUP, o presente documento,
+procura cimentar a metodologia de assegurar o supramencionado funcionamento. É importante - e de responsabilidade coletiva - assegurar que este conjunto de linhas gerais não
+restringe o desenvolvimento a ser feito mas, pelo contrário, torna-o mais ágil, garantindo
+que todo e qualquer membro da FS FEUP o faz de forma natural e motivada. Assim sendo,
+torna-se natural salvaguardar que, em complemento com o presente Regulamento Geral,
+cada caso deve ser avaliado de forma racional, crı́tica e a solução devidamente ponderada.
+A Formula Student e a Formula Student FEUP funcionam de forma extremamente
+dinâmica e, assim sendo, o Regulamento Geral pode ser retificado sempre que considerado
+necessário. Uma constante atualização visará adequá-lo aos tempos que a equipa esteja
+a enfrentar. É, no entanto, fundamental garantir sempre que os Valores e interesses do
+coletivo não sejam descurados, procurando seguir o fio condutor desenvolvido até então.
+O crescimento da equipa e sua manutenção exigem a introdução na mesma de conjuntos
+claros de regras e metodologias a seguir. É, no entanto, fundamental que a essência da
+Formula Student FEUP se mantenha, refletindo-se no carácter dos membros que a integram. Assim sendo, com este documento espera-se continuar a criar as fundações para o
+estabelecimento de uma equipa intemporal, no seio da Universidade do Porto, como um
+núcleo de referência pela sua qualidade distinta e oportunidades proporcionadas aos seus
+membros.
+“Never doubt that a small group of thoughtful, committed citizens can change the world;
+indeed, it’s the only thing that ever has.” – Margaret Mead
+
+Formula Student FEUP
+
+1
+
+Chapter 2
+
+Equipa e Generalidades
+2.1 Valores
+A Formula Student FEUP retrata-se através de um conjunto de valores, que a descrevem
+diariamente, e acompanham-na em vários processos desde relações interpessoais a processos
+de tomada de decisão:
+Excelência Atenção adequada desde os pormenores mais importantes até aos mais pequenos detalhes, sempre em busca do melhor desempenho - o bom nunca é suficiente.
+Compromisso Dedicar-se ao projeto, o que é necessário para ter um impacto positivo,
+juntamente com os compromissos pessoais necessários para o alcançar – quanto mais
+dedicação é aplicada ao projeto, mais recompensador é.
+Responsabilidade Assumir a responsabilidade pelas ações tomadas e decisões feitas,
+esforçando-se coletivamente por deixar as coisas melhores do que quando foram encontradas. Nunca dizer ”isso não é minha tarefa”.
+Espı́rito de Vencedor Desistir não é uma opção, esforçar-se de forma resiliente e urgente
+para ser melhor, avançando incansavelmente.
+Espı́rito de Equipa
+Relações baseadas na abertura, honestidade e responsabilidade não deixando os interesses pessoais superarem os demais -, fundamentadas numa comunicação eficaz, mantendo ao mesmo tempo diversão e positividade. Somos uma
+equipa.
+
+2.2 Missão
+A Missão da equipa encapsula os propósitos dos membros da equipa que constituem a
+mesma. Esta explica para o que é que a equipa serve e é algo público - é aquilo que deve
+ser associado ao objetivo final da equipa.
+A Missão da FS FEUP é
+”Promover o autodesenvolvimento dos estudantes, proporcionandolhes a oportunidade de fazer parte de algo maior, desenvolvendo protótipos de Formula
+Student - resultando em pessoas prontas para a carreira”.
+
+Formula Student FEUP
+
+2
+
+Os vários propósitos de cada membro, ligados à participação na equipa Formula Student
+FEUP, são enumerados abaixo:
+Desenvolvimento de competências
+A Formula Student autodenomina-se de
+International design competition of skills, speed and spirit
+. Esta cria a oportunidade perfeita
+para os estudantes de engenharia aplicarem os conhecimentos teóricos aprendidos durante as aulas num projeto mais prático. No entanto, onde a Formula Student difere de
+muitas competições universitárias de engenharia é no facto de que, para construir um
+protótipo de corrida, a equipa deve encontrar os recursos, gerir membros da equipa,
+e assim por diante, de forma autónoma, criando assim o ambiente perfeito para o desenvolvimento de habilidades de resolução de problemas, gestão de projetos, gestão do
+tempo, avaliação de riscos, comunicação e trabalho em equipa. Estudantes de cursos
+ou interesses não relacionados com engenharia têm um impacto significativo devido
+às necessidades e oportunidades criadas por um projeto multidisciplinar como este.
+Desafio Gerir uma equipa de dezenas de estudantes universitários voluntários, com um
+orçamento reduzido e um cronograma apertado, culminando na construção de um
+protótipo de corrida são tarefas enormes. A dificuldade tende a ser aumentada pela
+inovação e soluções complexas que as equipas introduzem - utilizando tecnologias de
+ponta e as dificuldades associadas à sua aplicação -, especialmente quando o desempenho elevado e a vitória se tornam prioridades.
+Impacto Vários fatores contribuem para essa inclinação, seja simplesmente altruı́smo,
+reconhecimento ou o desejo de deixar um legado; todos contribuem para a necessidade
+de ter um impacto em si mesmo, nos outros membros da equipa, na comunidade
+Formula Student, na universidade ou em alguma outra forma.
+Networking Disponı́vel de várias formas: juntamente com o desenvolvimento do protótipo,
+os membros da equipa trabalham com os patrocinadores da equipa; durante as competições, a equipa tem a oportunidade de visitar os
+stands de várias empresas, onde
+estão a recrutar; participar na Formula Student fornece a uma pessoa um currı́culo
+atraente para muitas indústrias. Outra forma de
+networking é alcançada ao conhecer
+pessoas com mentalidade semelhante, seja na própria equipa ou nas competições.
+“Because Racecar” Esta frase é comumente usada para tentar justificar decisões relacionadas a soluções e melhorias automóveis. A Formula Student não é exceção, e esta
+frase é amplamente difundida nesta comunidade; e pode ser relacionada ao apego pessoal que as pessoas sentem pelos protótipos de corrida, já que uma parte dos membros
+da equipa aprecia desportos motorizados ou automóveis.
+
+2.3 Visão
+A Visão da equipa compreende o rumo para onde a equipa se dirige a longo prazo. É a
+materialização, aplicada numa larga escala temporal, da Missão da mesma.
+A Visão da Formula Student FEUP é
+”Ser uma comunidade unida, proporcionando
+a melhor experiência de autodesenvolvimento para os estudantes - tendo a equipa
+
+Formula Student FEUP
+
+3
+
+e o protótipo alcançando um lugar no Top 10 na Formula Student Germany como
+validação.”
+Este é o melhor meio que a equipa tem de validar que está a formar os engenheiros e
+pessoas com capacidades de estar entre as 10 melhores universidades europeias.
+
+2.4 Objetivos
+2.4.1 Auxiliar o desenvolvimento pessoal dos membros que integram a equipa, a nı́vel técnico
+e de competências transversais.
+2.4.2 Competir em competições de Formula Student e, para tal, conceptualizar, desenhar,
+desenvolver, manufaturar, montar, testar e competir com protótipos que cumpram
+com as regras da competição.
+2.4.3 Representar a Universidade do Porto e sua Faculdade de Engenharia nas competições
+em que compita, nacionais ou internacionais.
+2.4.4 Fomentar o desenvolvimento da comunidade externa à equipa, procurando ser uma
+referência de qualidade.
+2.4.5 Desenvolver relações empresariais e institucionais, promovendo relações mutuamente
+benéficas.
+2.4.6 Promover a cooperação com instituições nacionais ou internacionais, que partilhem
+de interesses e valores com os da equipa.
+2.4.7 Defender o nome e interesses da Universidade do Porto e Faculdade de Engenharia.
+2.4.8 Representar e defender os interesses dos membros que integram a equipa, a nı́vel
+interno e externo.
+
+2.5 Denominação
+2.5.1 A Formula Student da Faculdade de Engenharia da Universidade do Porto, - Formula
+Student FEUP -, adiante se designará abreviadamente pela sigla “FS FEUP”
+2.5.2 A FS FEUP é uma equipa que representa a Universidade do Porto e sua Faculdade
+de Engenharia.
+2.5.3 A FS FEUP é uma associação sem fins lucrativos, nem limite de tempo, e rege-se pelo
+presente Regulamento Geral e demais legislação aplicável.
+
+Formula Student FEUP
+
+4
+
+2.6 Sede
+2.6.1 A FS FEUP tem a sua sede na Faculdade de Engenharia da Universidade do Porto
+(FEUP), na Rua Doutor Roberto Frias s/n, freguesia de Paranhos, da cidade do Porto
+e com o código postal 4200-465, Porto.
+
+2.7 Logótipo
+2.7.1 A FS FEUP é simbolizada pelo seguinte logótipo, ou por possı́veis variações poli- ou
+monocromáticas, uma vez aprovado pela Direção da equipa.
+
+Figure 2.1: Exemplo de logótipo policromático da equipa FS FEUP.
+
+Formula Student FEUP
+
+5
+
+Chapter 3
+
+Estatutos
+3.1 Arquitetura de equipa
+3.1.1 Estatutos Pessoais
+3.1.1 Estatutos Pessoais Executivos
+3.1.1.1 Member - membro integrante da equipa.
+3.1.1.2 Subsystem Responsible - membro integrante da equipa, indigitado pela Direção
+ao Estatuto em causa.
+3.1.1.3 Coordinator - membro integrante da equipa, indigitado pela Board ao Estatuto
+em causa.
+3.1.1.4 Financial Manager - membro integrante da equipa, candidato eleito ao Estatuto que ocupa, ou cooptado pela Board.
+3.1.1.5 Department Leader - membro integrante da equipa, candidato eleito ao Estatuto que ocupa, ou cooptado pela Board.
+3.1.1.6 Chief Operations - membro integrante da equipa, candidato eleito ao Estatuto
+que ocupa, ou cooptado pela Board.
+3.1.1.7 Chief Engineer - membro integrante da equipa, candidato eleito ao Estatuto
+que ocupa, ou cooptado pela Board.
+3.1.1.8 Team Leader - membro integrante da equipa, candidato eleito ao Estatuto que
+ocupa.
+3.1.2 Estatutos Pessoais Não Executivos
+3.1.2.1 Faculty Advisor - Docente da Universidade do Porto, indigitado pela Board.
+3.1.2.2 Alumni - ex-membro da equipa.
+
+Formula Student FEUP
+
+6
+
+3.1.2 Estatutos de Grupo
+3.1.1 Comunidade - conjunto de todos as pessoas com Estatutos Pessoais supramencionados,
+e porventura outras que considerado pertinente.
+3.1.2 Equipa - conjunto de membros da equipa que cumpram com os Estatutos Pessoais
+Executivos.
+3.1.3 Departamento - conjunto de membros da equipa que se enquadram na mesma divisão
+de área de trabalhos arbitrada pela Direção.
+3.1.4 Direção - conjunto de membros da equipa, eleitos aos Estatutos a que se propuseram.
+3.1.5 Board - conjunto de membros da equipa, eleitos aos Estatutos a que se propuseram,
+com responsabilidade administrativa máxima.
+
+3.2 Estatutos Pessoais Executivos
+3.2.1 Têm um conjunto de Direitos - transversais a qualquer Estatuto Executivo:
+3.2.1.1 Discutir sobre toda e qualquer atividade da equipa.
+3.2.1.2 Eleger e candidatar-se a cargos da Direção da equipa.
+3.2.1.3 Ter um espaço para trabalhar, tendo acesso por Cartão da Universidade do
+Porto ao espaço de trabalho da equipa.
+3.2.1.4 Candidatar-se a participar em competições.
+3.2.1.5 Representar a equipa em Eventos das competições, se decidido favoravelmente.
+3.2.1.6 Participar em Inspeções Técnicas em competições, se decidido favoravelmente.
+3.2.1.7 Estar presente em Dynamic Areas em competições, com o protótipo, se decidido favoravelmente.
+3.2.1.8 Conduzir um protótipo da equipa, se decidido favoravelmente.
+3.2.1.9 Efetuar cursos certificados, eventualmente obrigatórios por regras de competição.
+3.2.1.10 Demissão com efeito imediato, se assim o decidir.
+3.2.1.11 Utilização, para desenvolvimento do projeto, de Software e Hardware adquirido
+pela equipa.
+3.2.1.12 Utilizar o desenvolvimento feito no âmbito da equipa para o percurso académico,
+tendo aprovação da Direção.
+3.2.1.13 Ter acesso à documentação e outro desenvolvimento elaborado pela equipa.
+3.2.1.14 Ser reconhecido pelo contributo proporcionado à equipa, de um ponto de vista
+interno e externo.
+
+Formula Student FEUP
+
+7
+
+3.2.1 Têm um conjunto de Deveres - dependentes do Estatuto:
+3.2.1.1 Aplicados ao Estatuto de Member:
+3.2.1.1.1 Conhecer, respeitar e fazer respeitar o presente Regulamento Geral.
+3.2.1.1.2 Procurar compreender e seguir decisões tomadas pela Direção, sempre que esta não decida contra os seus Direitos.
+3.2.1.1.3 Manter a Direção atualizada relativamente aos seus contactos pessoais e assegurar a receção de qualquer informação enviada para os
+mesmos.
+3.2.1.1.4 Fornecer à Direção todos os dados pessoais estritamente necessários
+para o funcionamento da equipa e participação em competições.
+3.2.1.1.5 Participação em todas as reuniões de presença obrigatória: RDEP,
+RACP, RGER.
+3.2.1.1.6 Participação em Reuniões, se requisitado pela Direção: REXT, RISU,
+REMP.
+3.2.1.1.7 Participação em Eventos de Equipa e quaisquer atividades promovidas pela equipa.
+3.2.1.1.8 Fornecer à Direção o horário semanal para o semestre, até um dia
+util do inı́cio do mesmo.´
+3.2.1.1.9 Dedicar um conjunto mı́nimo de 21 horas de trabalho semanal ao
+projeto.
+3.2.1.1.10 Efetuar as tarefas atribuidas, procurando cumprir com a linha temporal associada.
+3.2.1.1.11 Auxiliar a equipa nas suas necessidades, de modo a cumprir com os
+objetivos e operações diárias.
+3.2.1.1.12 Auxiliar na criação de conteúdo para divulgação ou outros, se requisitado.
+3.2.1.1.13 Cumprir com os Valores da equipa, colocando-os acima de interesses
+pessoais.
+3.2.1.1.14 Basear as relações com outros membros da equipa em honestidade,
+confiança e comunicação.
+3.2.1.1.15 Apoiar a equipa nas suas necessidades se requisitado pela mesma,
+na eventualidade de uma Demissão.
+3.2.1.1.16 Desempenhar com empenho e respeito os trabalhos que forem atribuidos.
+3.2.1.1.17 Documentar o desenvolvimento efetuado, procurando transmitir conhecimento e assegurar a continuidade da equipa.
+3.2.1.1.18 Defender o nome e interesses da FS FEUP.
+3.2.1.1.19 Assegurar a manutenção da confidencialidade de temas da equipa
+cuja exposição dentro ou fora da mesma seja considerado impertinente.
+
+Formula Student FEUP
+
+8
+
+3.2.1.2 Aplicados ao Estatuto de Subsystem Responsible:
+3.2.1.2.1 Os Deveres supramencionados associados ao Estatuto de Member.
+3.2.1.2.2 Promover e defender os interesses e requisitos do respetivo Subsystem.
+3.2.1.2.3 Ser o ponto primário de contacto entre o Department Leader e o
+Subsystem.
+3.2.1.2.4 Auxiliar na coordenação dos demais membros do Subsystem.
+3.2.1.2.5 Ser responsável por decisões elaboradas no decorrer do desenvolvimento do seu Subsystem.
+
+3.2.1.3 Aplicados ao Estatuto de Coordinator:
+3.2.1.3.1 Os Deveres supramencionados associados ao Estatuto de Member.
+3.2.1.3.2 Cumprir com empenho as funções especı́ficas segundo as quais foi
+indigitado pela Board.
+3.2.1.4 Aplicados ao Estatuto de Financial Manager:
+3.2.1.4.1 Os Deveres supramencionados associados ao Estatuto de Member.
+3.2.1.4.2 Revisão do Planeamento e Orçamento Logı́stico.
+3.2.1.4.3 Elaboração de estratégias de perceção orçamental da equipa.
+3.2.1.4.4 Gestão orçamental e financeira do projeto.
+3.2.1.4.5 Elaboração e atualização do Balancete da equipa, bem como a sua
+coerência.
+3.2.1.4.6 Elaboração dos Documentos de Relatórios e Contas/Orçamento
+3.2.1.4.7 Preparação e detalhe das transações da equipa.
+3.2.1.4.8 Pós-processamento dos documentos associados.
+3.2.1.4.9 Cobrir quaisquer responsabilidades que possam advir de uma lacuna
+em termos de desenvolvimento financeiro do projeto.
+
+3.2.1.5 Aplicados ao Estatuto de Department Leader:
+3.2.1.5.1 Os Deveres supramencionados associados ao Estatuto de Member.
+3.2.1.5.2 Coordenar de um ponto de vista técnico e pessoal os membros que
+formam o respetivo Departamento.
+3.2.1.5.3 Responsabilidade de validação do trabalho feito pelos membros do
+Departamento.
+3.2.1.5.4 Ferramenta de validação da documentação elaborada intradepartamento, assegurando coerência e rigor na mesma.
+3.2.1.5.5 Gestão do trabalho, de modo ao Departamento cumprir com a linha
+temporal e objetivos definidos.
+3.2.1.5.6 Promoção do bem estar e motivação dos membros integrantes do
+respetivo Departamento.
+3.2.1.5.7 Presença ou delegação da mesma, no que concerne a REMP ou contactos relacionados com necessidades do respetivo Departamento.
+Formula Student FEUP
+
+9
+
+3.2.1.5.8 Ser o pronto primário de contacto entre a Direção e Board e o Departamento.
+3.2.1.5.9 Auxı́lio na gestão orçamental do respetivo Departamento.
+3.2.1.5.10 Cobrir quaisquer responsabilidades que possam advir de uma lacuna
+intradepartamento em termos de desenvolvimento.
+
+3.2.1.6 Aplicados ao Estatuto de Chief Operations:
+3.2.1.6.1 Os Deveres supramencionados associados ao Estatuto de Member.
+3.2.1.6.2 Coordenar de um ponto de vista técnico e pessoal os membros que
+formam o respetivo Departamento.
+3.2.1.6.3 Responsabilidade de validação do trabalho feito pelos membros do
+Departamento.
+3.2.1.6.4 Ferramenta de validação da documentação elaborada intradepartamento, assegurando coerência e rigor na mesma.
+3.2.1.6.5 Gestão do trabalho, de modo ao Departamento cumprir com a linha
+temporal e objetivos definidos segundo a Direção.
+3.2.1.6.6 Presença ou delegação da mesma, no que concerne a REMP ou contactos relacionados com necessidades do respetivo Departamento.
+3.2.1.6.7 Ser o pronto primário de contacto entre a Direção e Board e o Departamento.
+3.2.1.6.8 Auxı́lio na gestão orçamental do respetivo Departamento.
+3.2.1.6.9 Responsabilidade pela tutela dos Static Events de Cost and Manufacturing e Business Plan Presentation.
+3.2.1.6.10 Assegurar a aquisição de patrocı́nios necessários à execução do projeto.
+3.2.1.6.11 Coordenação das logı́sticas associadas à execução do projeto: competições, Rollout, Eventos de equipa, Quizzes, e qualquer outra.
+3.2.1.6.12 Promoção do bem estar e motivação dos membros integrantes do
+respetivo Departamento e equipa.
+3.2.1.6.13 Responsabilidade pela organização de eventos que concernem a equipa.
+3.2.1.6.14 Promoção e responsabilidade pela imagem externa e interna da equipa,
+em termos de conteúdo visual produzido.
+3.2.1.6.15 Cobrir quaisquer responsabilidades que possam advir de uma lacuna
+intradepartamento, ou do projeto, em termos de desenvolvimento.
+
+3.2.1.7 Aplicados ao Estatuto de Chief Engineer:
+3.2.1.7.1 Os Deveres supramencionados associados ao Estatuto de Member.
+3.2.1.7.2 Coordenação técnica e pessoal dos diversos Departamentos da equipa
+cuja área do saber envolve conhecimentos de Engenharia Mecânica,
+Engenharia Eletrotécnica e de Computadores, Informática e demais
+semelhantes.
+
+Formula Student FEUP
+
+10
+
+3.2.1.7.3 Responsabilidade de defender o desenvolvimento do melhor produto
+possı́vel, sempre consciente do orçamento e planeamento da equipa.
+3.2.1.7.4 Ferramenta de revisão global de documentação técnica produzida
+pela equipa.
+3.2.1.7.5 Responsabilidade de coordenar as Technical Inspections e seu planeamento, assegurando que a equipa as cumpre.
+3.2.1.7.6 Tomar decisões técnicas nas interfaces entre Subsystems, procurando
+a obtenção de um produto final rigoroso e coerente.
+3.2.1.7.7 Responsabilidade de coordenar as fases de testagem dos Subsystems
+e do protótipo completo.
+3.2.1.7.8 Responsável máximo, em testagem e competição, por validar que o
+protótipo se encontra seguro e passı́vel de ser testado, de um ponto
+de vista mecânico.
+3.2.1.7.9 Responsabilidade pela tutela do Engineering Design Event.
+3.2.1.7.10 Cobrir quaisquer responsabilidades que possam advir de uma lacuna
+em termos de desenvolvimento do projeto.
+
+3.2.1.8 Aplicados ao Estatuto de Team Leader:
+3.2.1.8.1 Os Deveres supramencionados associados ao Estatuto de Member.
+3.2.1.8.2 Ser o ponto de contacto principal entre os parceiros institucionais e a
+equipa, em colaboração com o Faculty Advisor.%: Reitoria da Universidade do Porto, Direção da FEUP, Direção dos Departamentos
+da FEUP, Direção da AEFEUP, Direção da FAP, e demais Instituições e Núcleos
+3.2.1.8.3 Ser o ponto de contacto principal entre a presente equipa e Comunidade FS FEUP.
+3.2.1.8.4 Definição do orçamento global para o ciclo de equipa em causa.
+3.2.1.8.5 Estabelecimento do planeamento a longo prazo da equipa, que se
+reflete no planeamento macro do ciclo.
+3.2.1.8.6 Promoção do bem estar e motivação dos membros integrantes da
+equipa.
+3.2.1.8.7 Promover ações que levem a um bom funcionamento da equipa.
+3.2.1.8.8 Coordenação e curadoria do processo de Recrutamento da equipa.
+3.2.1.8.9 Assegurar que a equipa possui dos recursos necessários à execução
+do projeto.
+3.2.1.8.10 Assegurar que o máximo potencial é passı́vel de ser extraı́do da
+equipa.
+3.2.1.8.11 Defender os interesses da equipa e do coletivo dos seus membros,
+acima de tudo, de um ponto de vista interno e externo à equipa.
+3.2.1.8.12 Cobrir quaisquer responsabilidades que possam advir de uma lacuna
+em termos de desenvolvimento do projeto.
+Formula Student FEUP
+
+11
+
+3.2.1.8.13 Ter a capacidade de substituir em funções, se necessário, qualquer
+membro da equipa.
+3.2.1.8.14 Promover decisões que procurem ir de encontro à Visão da equipa.
+
+3.3 Estatutos Pessoais Não Executivos
+3.3.1 Englobam os Estatutos de:
+3.3.1.1 Faculty Advisor.
+3.3.1.2 Alumni.
+3.3.2 O Estatuto de Faculty Advisor tem um conjunto de Direitos:
+3.3.2.1 Opinar e discutir sobre toda e qualquer atividade da equipa.
+3.3.2.2 Participar em competições com a equipa.
+3.3.2.3 Efetuar cursos certificados, eventualmente obrigatórios por regras de competição.
+3.3.2.4 Demissão com efeito imediato, se assim o decidir.
+3.3.2.5 Ter acesso a todo a documentação e outro desenvolvimento elaborado pela
+equipa.
+3.3.2.6 Ser reconhecido pelo contributo proporcionado à equipa, de um ponto de vista
+interno e externo.
+3.3.3 O Estatuto de Faculty Advisor tem um conjunto de Deveres:
+3.3.3.1 Promover o bem estar da totalidade dos membros que integram a equipa.
+3.3.3.2 Ser o ponto de contacto entre os parceiros institucionais e a equipa, em colaboração com o Team Leader.
+3.3.3.3 Zelar pelo cumprimento do presente Regulamento Geral e demais legislação
+aplicada aos membros da equipa.
+3.3.3.4 Assegurar uma adequada transição de ciclo de equipa e continuidade, em
+coordenação com a Direção em final de Mandato.
+3.3.3.5 Acompanhamento da equipa em competições, assegurando a segurança e bem
+estar dos membros da equipa, assim como o cumprimento das regras de conduta prescrita pelo paı́s da competição e regras da competição.
+3.3.3.6 Contribuir como ferramenta de validação do trabalho desenvolvido pela equipa,
+de acordo com a sua área de saber enquanto docente na Universidade do Porto.
+3.3.4 O estatuto de Alumni tem um conjunto de Direitos:
+3.3.4.1 Opinar e discutir sobre toda e qualquer atividade da equipa.
+3.3.4.2 Ser reconhecido pelo contributo proporcionado à equipa, de um ponto de vista
+interno e externo.
+Formula Student FEUP
+
+12
+
+3.3.4.3 Acompanhar o desenvolvimento feito pela equipa.
+3.3.4.4 Participar em Eventos de Equipa.
+3.3.5 O estatuto de Alumni tem um conjunto de Deveres:
+3.3.5.1 Intervir em processos de validação do desenvolvimento feito pela equipa, se
+disponı́vel e assim requisitado.
+3.3.5.2 Zelar pelo cumprimento do presente Regulamento Geral e demais legislação
+aplicada aos membros da equipa.
+3.3.5.3 Promover o bem estar da totalidade dos membros que integram a equipa.
+3.3.5.4 Assegurar uma adequada transição de ciclo de equipa e continuidade, em
+coordenação com a Direção em final de Mandato.
+3.3.5.5 Criar um ambiente construtivo de melhoria contı́nua da equipa e protótipos,
+contribuindo para a criação de um ambiente propı́cio ao desenvolvimento da
+equipa.
+
+3.4 Estatutos de Grupo
+3.4.1 Responsabilidades da Comunidade:
+3.4.1.1 Ser composta por pessoas de todos os Estatutos, desde que tenham como
+objetivo promover o bem estar da totalidade dos membros que integram a
+equipa.
+3.4.1.2 Zelar pelo cumprimento do presente Regulamento Geral e demais legislação
+aplicada aos membros da equipa.
+3.4.1.3 Assegurar uma adequada transição de ciclo de equipa e continuidade, em
+coordenação com a Direção em final de Mandato.
+3.4.1.4 Criar um ambiente construtivo de melhoria contı́nua da equipa e protótipos,
+ultrapassando interesses pessoais que possam entrar em conflito com o primeiro.
+3.4.1.5 Defender os feitos do passado da equipa como meio para proporcionar um
+melhor futuro à mesma.
+3.4.2 Responsabilidades da Equipa:
+3.4.2.1 Entreajudar-se no desenvolvimento pessoal individual e objetivos coletivos.
+3.4.2.2 Zelar pelo cumprimento do presente Regulamento Geral e demais legislação
+aplicada aos membros da equipa.
+3.4.2.3 Defender e cumprir diariamente com os Valores da equipa.
+3.4.2.4 Procurar cumprir com os objetivos definidos para o projeto no ciclo.
+3.4.3 Responsabilidades de Departamento:
+3.4.3.1 Cumprir a demais legislação aplicada ao Estatuto de Equipa.
+
+Formula Student FEUP
+
+13
+
+3.4.3.2 Promover os interesses do Departamento em que se incluem, não descurando
+uma perspetiva global do enquadramento do Departamento na equipa e seus
+objetivos.
+3.4.3.3 Promover um ambiente de confiança na liderança do Departamento, não obstante escrutı́nio construtivo das decisões e metodologia seguidas.
+3.4.4 Responsabilidades da Direção:
+3.4.4.1 Cumprir a demais legislação aplicada ao Estatuto de Equipa.
+3.4.4.2 Ser composta por um número mı́nimo de seis membros da equipa: Team
+Leader, Chief Engineer e quatro Department Leaders.
+3.4.4.3 Representar a equipa perante os parceiros institucionais, empresariais e outros.
+3.4.4.4 Coordenar os trabalhos a nı́vel interno e externo.
+3.4.4.5 Coordenar os membros da equipa.
+3.4.4.6 Assumir responsabilidade pelas ações dos membros da equipa, no âmbito da
+atividade da mesma.
+3.4.4.7 Gerir o património da equipa, a nı́vel de manutenção ou cedência do mesmo.
+3.4.4.8 Garantir o correto funcionamento da equipa, assumindo as responsabilidades
+necessárias para tal.
+3.4.4.9 Zelar pelo cumprimento do presente Regulamento Geral e demais legislação
+aplicada aos membros da equipa.
+3.4.4.10 Defender a equipa e seus interesses acima de qualquer outra motivação.
+3.4.5 Responsabilidades da Board:
+3.4.5.1 Cumprir a demais legislação aplicada ao Estatuto de Equipa e Direção.
+3.4.5.2 Ser composta por um número mı́nimo de dois membros da equipa: Team
+Leader e Chief Engineer.
+3.4.5.3 Gerir os fluxos financeiros da equipa.
+3.4.5.4 Coordenar os membros da Direção.
+3.4.5.5 Tomar decisões de âmbito abrangente em termos temporais e de gestão da
+equipa.
+3.4.5.6 Assumir responsabilidade pelas decisões tomadas pela equipa e suas consequências.
+3.4.5.7 Curadoria de diversos processos associados à manutenção e continuidade da
+equipa.
+3.4.5.8 Garantir que o coletivo dos Deveres da Board é cumprido, independentemente
+da constituição de Estatutos da Board.
+3.4.5.9 Indigitar o Faculty Advisor.
+
+Formula Student FEUP
+
+14
+
+Chapter 4
+
+Reuniões
+4.1 Reunião Geral (RGER)
+4.1.1 Possui uma frequência semanal.
+4.1.2 Cada membro deverá preparar previamente a apresentação que fará, através de um
+documento disponibilizado.
+4.1.3 O discurso de cada membro a apresentar deve assentar em pragmatismo, objetividade
+e clareza.
+4.1.4 É importante a equipa ter o empenho coletivo de estar presente, devendo cada membro
+fazer o esforço individual de o cumprir.
+4.1.5 Tem como objetivos:
+4.1.5.1 Anunciar notas gerais sobre o rumo da equipa e possı́veis decisões que afetem
+os seus membros.
+4.1.5.2 Promover a transferência de conhecimento transversal a toda a equipa.
+4.1.5.3 Dar a conhecer aos membros da equipa conhecimento que possa afetar o seu
+desenvolvimento.
+4.1.5.4 Dar a oportunidade aos membros da equipa de apresentar o trabalho feito,
+visando que o seu esforço e dedicação sejam reconhecidos.
+4.1.5.5 Reunir a equipa de forma coletiva, promovendo o convı́vio.
+4.1.6 O funcionamento deverá seguir:
+4.1.6.1 Introdução e notas gerais da responsabilidade da Board.
+4.1.6.2 Apresentações sucessivas da responsabilidade de cada Departamento.
+4.1.6.3 Qualquer outra dinâmica considerada pertinente.
+
+Formula Student FEUP
+
+15
+
+4.2 Reunião de Departamento (RDEP)
+4.2.1 Tem como objetivos:
+4.2.1.1 Atribuição de tarefas.
+4.2.1.2 Esclarecimento sobre o estado de tarefas pendentes.
+4.2.1.3 Reflexão geral sobre o Departamento e seu desenvolvimento técnico.
+4.2.2 É obrigatória a presença dos membros integrantes do Departamento.
+4.2.3 Carece de planeamento e notas, cuja responsabilidade é do Department Leader.
+4.2.4 O funcionamento deverá seguir:
+4.2.4.1 Regime semanal, em horário preferencialmente fixo, no espaço de trabalho da
+equipa - é do interesse do bom funcionamento da equipa que seja no inı́cio da
+semana de trabalho.
+4.2.4.2 Introdução acerca de temas genéricos, tipicamente anunciados na RDIR que
+antecede as RDEP.
+4.2.4.3 Revisão sobre a semana anterior:
+4.2.4.3.1 Analisar as tarefas que haviam sido atribuı́das.
+4.2.4.3.2 Compreender porque é que algumas tarefas não foram concluı́das e
+documentar os problemas enfrentados.
+4.2.4.3.3 Redistribuir tarefas não concluı́das, com eventuais alterações.
+4.2.4.4 Planeamento da semana seguinte:
+4.2.4.4.1 Decidir em conjunto com os membros as tarefas a executar, com base
+no planeamento.
+4.2.4.4.2 Definir os Reviewers para as tarefas.
+4.2.4.4.3 Descrever detalhadamente o objetivo e requisitos de cada tarefa a
+ser feita.
+4.2.4.4.4 Alocar Sprint Points às tarefas.
+4.2.5 De forma complementar, algumas vertentes alternativas podem ser executadas:
+4.2.5.1 A cada quinzena, pode ser feita uma retrospetiva do Sprint passado, debatendo:
+4.2.5.1.1 Sobre as metodologias a ser usadas e seu funcionamento.
+4.2.5.1.2 As decisões técnicas tomadas.
+4.2.5.2 Mensalmente, pode ser feita uma revisão interna do Departamento.
+4.2.5.2.1 São revistos nesta:
+4.2.5.2.1.1 Trabalho desenvolvido.
+4.2.5.2.1.2 Decisões tomadas.
+4.2.5.2.1.3 Resultados obtidos.
+4.2.5.2.2 Os Objetivos são:
+4.2.5.2.2.1 Promover a transferência de conhecimento e de planeamento intradepartamento.
+Formula Student FEUP
+
+16
+
+4.2.5.2.2.2 Criar um ambiente para promoção de possı́veis ajustes ao
+planeamento.
+4.2.5.3 No final de cada fase, outro momento de retrospetiva e perspetiva acontece:
+4.2.5.3.1 É feito um momento de reflexão, promovendo o debate e escrevendo
+as aprendizagens e reflexões feitas - com o intuito de posteriormente
+melhorar as metodologias utilizadas.
+4.2.5.3.2 É feito um momento de revisão sobre o trabalho elaborado, procurando anotar e posteriormente incluir as conclusões no planeamento.
+4.2.5.3.3 A ordem de trabalhos macro para a próxima fase é apresentada.
+4.2.5.3.4 Uma ata detalhando o progresso feito na passada fase é escrita.
+
+4.3 Reunião de Acompanhamento (RACP)
+4.3.1 Funciona em regime semanal, em horário preferencialmente fixo, no espaço de trabalho
+da equipa - é do interesse do bom funcionamento da equipa que seja entre RDEP e
+RGER semanais sucessivas.
+4.3.2 Se necessário, um membro pode propor ao Department Leader a execução de uma
+RACP extraordinária.
+4.3.3 Cada Subsystem deverá ter a sua RACP.
+4.3.4 Os membros presentes deverão ser os que integram o Subsystem em causa e o Department Leader.
+4.3.5 O objetivo da RACP é refletir sobre o progresso feito, garantindo que os requisitos
+estão a ser cumpridos e possibilitando o Department Leader de ajudar a direcionar o
+trabalho.
+
+4.4 Reunião Inter-Subsystems (RISU)
+4.4.1 A frequência é dependente da sua necessidade e pertinência.
+4.4.2 As reuniões podem ser propostas por um Membro, sendo convocadas por um Membro
+da Direção.
+4.4.3 Servem para expôr e debater interdependências entre Subsystems.
+4.4.4 A obrigatoriedade de presença em RISU depende do âmbito da mesma.
+4.4.5 O final de uma fase culmina com uma RISU de presença obrigatória dos membros
+do Subsystem, Department Leader e representação da Board - cujos debate cinje
+maioritariamente o Subsystem.
+4.4.6 Um documento escrito deve ser produzido, refletindo os temas e conclusões da RISU.
+
+Formula Student FEUP
+
+17
+
+4.5 Reunião Externa (REXT)
+4.5.1 A frequência é dependente da sua necessidade e pertinência.
+4.5.2 As reuniões devem ser convocadas por um membro da Direção.
+4.5.3 Um membro pode propôr a convocação de uma REXT.
+4.5.4 Estas englobam reuniões com professores, alumni, outras equipas e outros.
+4.5.5 Pode ter como objetivos:
+4.5.5.1 Obter validação sobre o desenvolvimento feito enquanto equipa.
+4.5.5.2 Debater qualquer tema afeto à Formula Student.
+4.5.6 Um documento escrito deve ser produzido, englobando a preparação, objetivos e resultados.
+
+4.6 Reunião com Empresa (REMP)
+4.6.1 A frequência é dependente da sua necessidade, pertinência e disponibilidade por parte
+da empresa.
+4.6.2 As reuniões devem ser convocadas pelo Sponsors Responsible, Department Leader ou
+membro da Direção.
+4.6.3 Pode ter como objetivos:
+4.6.3.1 A criação de possı́veis pontos de parceria, sejam institucionais ou empresariais.
+4.6.3.2 Apresentação de resultados e/ou desenvolvimento efetuado pela equipa.
+4.6.3.3 Discussão detalhada da metodologia a seguir para o patrocı́nio.
+4.6.4 Um documento escrito deve ser produzido, englobando a preparação, objetivos e resultados
+
+4.7 Reunião de Finanças (RFIN)
+4.7.1 Funciona em regime mensal, em horário preferencialmente fixo - é do interesse do bom
+funcionamento da equipa que seja no inı́cio de cada mês.
+4.7.2 Pode ter como objetivos:
+4.7.2.1 Promover a reflexão e debate sobre o estado atual orçamental da equipa.
+4.7.2.2 Informar a Board e o Financial Manager sobre decisões que afetem a equipa.
+
+Formula Student FEUP
+
+18
+
+4.7.2.3 Promover um ambiente de discussão de temas que influenciem o rumo financeiro da equipa.
+4.7.3 Um documento escrito deve ser produzido, englobando a preparação, objetivos e resultados.
+4.7.4 Um documento escrito deve ser apresentado por parte do Financial Manager contendo o extrato bancário mensal, bem como uma justificação detalhada para cada
+movimento.
+4.7.5 É obrigatória a presença de todos os membros da Board e Financial Manager.
+4.7.6 A confidencialidade dos temas debatidos deve ser assegurada.
+4.7.7 Um membro da Board ou o Financial Manager tem direito a convocar uma RFIN
+extraordinária sempre que considerar necessário.
+
+4.8 Reunião de Direção (RDIR)
+4.8.1 Funciona em regime semanal, em horário preferencialmente fixo - é do interesse do
+bom funcionamento da equipa que seja antes das RDEP semanais.
+4.8.2 Pode ter como objetivos:
+4.8.2.1 Promover a reflexão e debate sobre o rumo da equipa.
+4.8.2.2 Informar a Direção sobre decisões que afetem a equipa.
+4.8.2.3 Promover um ambiente de discussão de temas que influenciem um ou vários
+Departments.
+4.8.2.4 Tomar decisões que afetem o desenvolvimento da equipa.
+4.8.3 Um documento escrito deve ser produzido, englobando a preparação, objetivos e resultados.
+4.8.4 É obrigatória a presença de todos os membros da Direção.
+4.8.5 A confidencialidade dos temas debatidos deve ser assegurada.
+4.8.6 Um membro da Direção tem direito a convocar uma RDIR extraordinária sempre que
+considerar necessário.
+
+4.9 Reunião de Board (RBOR)
+4.9.1 Funciona em regime semanal, em horário preferencialmente fixo - é do interesse do
+bom funcionamento da equipa que seja antes da RDIR semanal.
+4.9.2 Pode ter como objetivos:
+4.9.2.1 Promover a reflexão e debate sobre o rumo da equipa.
+Formula Student FEUP
+
+19
+
+4.9.2.2 Tomar decisões que influenciem a equipa de um ponto de vista global (e.g.
+orçamental, competições).
+4.9.2.3 Preparar a exposição a ser feita em RDIR.
+4.9.3 Um documento escrito deve ser produzido, englobando a preparação, objetivos e resultados.
+4.9.4 É obrigatória a presença de todos os membros da Board.
+4.9.5 A confidencialidade dos temas debatidos deve ser assegurada.
+4.9.6 Um membro da Board tem direito a convocar uma RBOR extraordinária sempre que
+considerado necessário.
+
+Formula Student FEUP
+
+20
+
+Chapter 5
+
+Direção e Board da equipa
+5.1 Mandato
+5.1.1 Os elementos da Direção estão munidos de mandato enquanto se encontrarem no
+exercı́cio de funções.
+5.1.2 Considera-se o exercı́cio de funções o perı́odo de tempo iniciado pela tomada de posse
+da Direção, com duração máxima de um ano.
+5.1.3 A tomada de posse requer uma eleição legı́tima e que os eleitos cumpram com o
+presente Regulamento Geral.
+5.1.4 A manutenção do Mandato exige o cumprimento do Regulamento Geral, por parte
+dos eleitos.
+
+5.2 Eleições
+5.2.1 A Direção da FS FEUP é eleita por maioria simples dos votos expressos pelos membros
+da equipa - ao momento da votação -, em âmbito de RGER, de acordo com o calendário
+eleitoral.
+5.2.2 A votação visa eleger a lista que tomará posse enquanto futura Direção da equipa.
+5.2.3 O calendário eleitoral é, de forma sucessiva, composto por:
+5.2.3.1 Perı́odo de apresentação de listas.
+5.2.3.2 Votação.
+5.2.3.3 Perı́odo de transição.
+5.2.3.4 Empossamento.
+5.2.4 O processo eleitoral ocorre, anualmente, em datas assinaladas pela Board, devendo
+ser anunciadas até uma semana do inı́cio do calendário eleitoral.
+5.2.5 Um perı́odo de transição dar-se-á desde o momento de eleição ao momento de tomada
+de posse formal.
+
+Formula Student FEUP
+
+21
+
+5.2.6 A tomada de posse formal ocorre após a última competição da época, até uma semana
+após o inı́cio do ano letivo.
+5.2.7 Até um mês após empossamento, são automaticamente convocadas eleições se os
+seguintes acontecimentos sucederem:
+5.2.7.1 Se mais do que 50% dos membros da Board se demitirem.
+5.2.7.2 Se mais do que 75% dos membros da Direção se demitirem.
+5.2.7.3 Se o Team Leader se demitir.
+5.2.8 Qualquer membro da equipa tem direito a apresentar uma lista válida.
+5.2.9 Uma lista, para ser válida, deve preencher os requisitos:
+5.2.9.1 Ser composta por um número mı́nimo de seis membros da equipa, candidatos
+a: Team Leader, Chief Engineer e quatro Department Leaders.
+5.2.9.2 Ser apresentada de acordo com o calendário eleitoral, à Board.
+5.2.9.3 Ter subscrição escrita de um número mı́nimo correspondente a 10% dos membros que integram a equipa, externos à lista.
+5.2.10 Até uma semana após findado o processo de votação e anuncio dos resultados, existe
+um perı́odo de protesto.
+5.2.11 Um protesto deve ser fundamentado, contendo uma proposta de resolução construtiva
+e apresentado por escrito à Board ainda em funções.
+5.2.12 O protesto pode levar a uma renovação do calendário eleitoral, com possibilidade de
+nova votação - sob decisão da Board.
+5.2.13 O sistema eleitoral funciona a duas voltas:
+5.2.13.1 Não havendo numa primeira volta o cumprimento da maioria simples dos votos
+expressos para nenhuma lista, é necessária uma segunda volta.
+5.2.13.2 Integrarão numa segunda volta as duas listas com maior número de votos na
+primeira volta.
+5.2.13.3 O ato de votação da segunda volta deverá ocorrer num prazo de até uma
+semana da primeira volta.
+
+5.3 Reconfigurações
+5.3.1 Durante o decorrer do Mandato segundo o qual foi eleita, a Direção pode cooptar por
+indigitar membros da equipa para incorporar a mesma, desde que não seja necessária
+nova eleição.
+5.3.2 Reconfigurações internas à Direção podem ser executadas, desde que estas não afetem
+o Team Leader ou correspondam a alterações superiores a 75% dos Estatutos.
+5.3.3 Reconfigurações internas à Board podem ser executadas, desde que estas não afetem
+o Team Leader ou correspondam a alterações superiores a 50% dos Estatutos.
+
+Formula Student FEUP
+
+22
+
+Chapter 6
+
+Funcionamento de Equipa
+6.1 Sanções
+6.1.1 Podem ser aplicadas sanções a qualquer membro da equipa, cuja interpretação fica ao
+cargo do mesmo e Direção.
+6.1.2 O não cumprimento com o Regulamento Geral ou demais legislação aplicável, pode
+levar à atribuição de Sanção.
+6.1.3 Pode ser apresentado um protesto à sanção e suas consequências num perı́odo de
+tempo de até uma semana após conhecimento da mesma.
+6.1.4 Uma sanção constitui um aviso, apontando o incumprimento supramencionado ao
+membro em causa.
+
+6.2 Demissões
+6.2.1 Mediante sanções e votação favorável da Direção segundo a Metodologia de Decisão,
+um membro da equipa poderá ser demitido com efeito imediato.
+6.2.2 A demissão de qualquer membro individual da Direção poderá implicar a cooptação
+por parte da própria Direção de um membro da equipa.
+6.2.3 Um descontentamento demonstrado pela equipa poderá levar à destituição da Direção,
+mediante deliberação de pelo menos dois terços dos membros da equipa a aprovar.
+6.2.4 A demissão do Team Leader implicará um novo processo eleitoral, que determinará
+a Direção sucessora. Este processo eleitorial deverá ocorrer num prazo máximo de
+quinze dias.
+
+6.3 Incompatibilidades
+6.3.1 A presença de um Member noutro Núcleo ou Associação deve ser revista por parte
+da Direção de equipa, decidindo esta a metodologia a seguir.
+Formula Student FEUP
+
+23
+
+6.3.2 Qualquer situação de potencial incompatibilidade é revista e decidida pela Direção.
+6.3.3 É incompatı́vel a presença noutro Núcleo ou Associação, de um membro da Direção
+ou Board da equipa.
+
+6.4 Recrutamento
+6.4.1 A equipa segue um processo de recrutamento público, aberto aos estudantes de
+primeiro e segundo ciclos da Universidade do Porto.
+6.4.2 A definição e anúncio do calendário de recrutamento é da responsabilidade da Board
+da equipa.
+6.4.3 O recrutamento visa assegurar que a continuidade e manutenção de equipa são asseguradas, procurando que esta cumpra com os seus objetivos e Visão.
+6.4.4 A qualidade e transparência do processo de recrutamento devem ser procurados,
+seguindo sempre critérios claros e rigorosos.
+
+6.5 Instalações
+6.5.1 As instalações utilizadas pela equipa devem ser cuidadosamente utilizadas, procurando
+a sua conservação:
+6.5.1.1 Os danos causados intencionalmente ou de forma irresponsável, às instalações
+serão reparados/pagos pelos responsáveis pelo ato.
+6.5.1.2 Não é permitido o uso das instalações para atos que não sejam relacionados
+com a sua finalidade.
+6.5.1.3 Os membros, enquanto utilizadores do espaço, devem cumprir as regras de
+funcionamento estabelecidas:
+6.5.1.3.1 Respeitar a integridade do espaço de trabalho.
+6.5.1.3.2 Respeitar os demais membros a trabalhar.
+6.5.1.3.3 Procurar não perturbar possı́veis reuniões que existam em simultâneo
+no espaço.
+6.5.1.4 Qualquer violação do Regulamento Geral resulta no afastamento do responsável
+ou responsáveis pela mesma e respetiva avaliação da situação pela Direção.
+6.5.2 A equipa dispõe de um local de trabalho, a sala B320.
+6.5.3 É possı́vel de incluir material pessoal nas instalações utilizadas pela equipa, desde
+que:
+6.5.3.1 Este não cause incómodo no demais membros da equipa.
+6.5.3.2 O espaço ocupado por este seja adequado.
+6.5.3.3 Houver possibilidade de existência de incompatibilidade com algum material
+pré-existente na instalação.
+Formula Student FEUP
+
+24
+
+6.6 Metodologia de decisão
+6.6.1 A metodologia de decisão seguida pela Direção e Board, abaixo explicada, carece de
+um documento escrito sempre que utilizada, contendo a decisão a ser tomada assim
+como assinatura dos membros intervenientes sob o resultado da votação.
+6.6.2 Cada voto conta como um ponto, tendo qualquer membro da Direção ou Board o
+mesmo peso nesse voto:
+6.6.2.1 Um voto favorável conta como um ponto positivo (+1).
+6.6.2.2 Uma abstenção conta como um ponto nulo (=0).
+6.6.2.3 Um voto contra conta como um ponto negativo (-1).
+6.6.3 O somatório da votação dita o resultado da mesma:
+6.6.3.1 Se for superior a zero, a decisão é favorável (
+
+¿ 0).
+
+6.6.3.2 Se for igual a zero e a abstenção for inferior a um terço dos membros, considerase um empate (=0).
+6.6.3.3 Se for inferior a zero, a decisão é desfavorável (
+
+¡ 0).
+
+6.6.4 Na eventualidade de um empate, o Team Leader tem direito a voto de qualidade.
+6.6.5 É necessário voto da totalidade dos membros da Direção para a votação ser contabilizada como válida, exceto se houver impossibilidade prolongada de exercer esse
+dever.
+6.6.6 Certas decisões, se considerado necessário, precisam de somatório favorável da Direção,
+Board e eventualmente Team Leader, para serem aprovadas.
+6.6.7 A tipologia de decisões no anterior ponto mencionadas cabe à Board de definir.
+6.6.8 A confidencialidade da votação e seu resultado, se necessário, deve ser assegurada.
+
+6.7 Dissolução
+6.7.1 A equipa pode ser dissolvida, se assim decidido pela Direção da mesma, devido a:
+6.7.1.1 Impossibilidade financeira de manter a equipa.
+6.7.1.2 Inexistência de membros.
+6.7.1.3 Inexistência prolongada de atividade.
+6.7.1.4 Manifestado interesse na sua execução com base em baixo assinado por 75%
+dos membros da equipa.
+6.7.2 Na eventualidade de uma dissolução, o património da equipa ficará sob tutela da
+Comunidade.
+
+Formula Student FEUP
+
+25
+
+6.8 Autonomização de Entidade
+6.8.1 Por decisão da Board da equipa, pode ser deliberada a autonomização da FS FEUP
+como entidade jurı́dica distinta da AEFEUP, processo que terá inı́cio mediante a
+apresentação formal desta intenção via comunicação escrita à Direção da AEFEUP.
+6.8.2 Após esta comunicação, será realizada a autonomização da entidade FS FEUP, que
+culminará na criação de um nova associação, dando seguimento aos projetos em curso
+e cumprindo todos os formalismos legais.
+6.8.3 Uma vez constituı́da a associação, a AEFEUP deverá transferir a totalidade do
+património que detenha da equipa, num prazo máximo de quinze dias úteis.
+
+6.9 Receitas e Despesas
+6.9.1 A equipa tem um orçamento próprio, gerido pela Board da mesma.
+6.9.2 As receitas da equipa advêm de:
+6.9.2.1 Atribuição de subsı́dios por parte dos parceiros institucionais da equipa.
+6.9.2.2 De heranças, legados e outros subsı́dios a estes atribuı́dos.
+6.9.2.3 De patrocı́nios e apoios de qualquer entidade ou instituição.
+6.9.2.4 De liberalidades aceites pela equipa.
+6.9.2.5 Da prestação de bens, serviços ou demais iniciativas.
+6.9.3 As despesas da equipa devem ser geridas pela Board e Financial Manager, sendo
+utilizadas única e exclusivamente para colmatar as necessidades da equipa.
+
+6.10 Conduzir o protótipo
+6.10.1 Carece de uma aprovação por parte da Direção de equipa.
+6.10.2 Requer a posse de Carta de Condução do Tipo B.
+6.10.3 Requer a capacidade de manusear o protótipo em segurança, sendo necessária uma
+formação e treino promovida pela equipa.
+6.10.4 É necessário pertencer à equipa para conduzir o protótipo em competição.
+6.10.5 Qualquer custo associado a um dano ao protótipo, seja intencional, ou devido a irresponsabilidade, promovido pelo piloto, deve ser acarretado por este.
+
+Formula Student FEUP
+
+26
+
+6.11 Participação em competições
+6.11.1 A curadoria do processo de candidatura a competições é da responsabilidade da Board.
+6.11.2 O processo de decisão acerca de participação em competições deve ter em conta:
+6.11.2.1 Disponibilidade do membro.
+6.11.2.2 Interesse do membro.
+6.11.2.3 Interesse global da equipa: continuidade.
+6.11.2.4 Orçamento da equipa.
+6.11.3 A participação em competições pode requerer a comparticipação no orçamento da
+equipa, de apoio dos membros.
+6.11.4 Uma vez divulgada a lista de participantes nas competições, cada membro tem até
+uma semana para apresentar um protesto, se necessário.
+6.11.5 O apoio monetário não será reembolsado, independentemente do motivo que causou
+a necessidade, uma vez feitas as compras que concernem a participação do membro
+em competições.
+6.11.6 É requerido no perı́odo de participação que cada membro cumpra com o regulamento
+da própria competição, Regulamento Geral, Protocolos e demais legislação aplicável.
+
+6.12 Manuseamento de património
+6.12.1 O património da equipa pode ser utilizado para desenvolvimento do projeto, desde
+que aprovado pela Direção.
+6.12.2 A utilização carece da escrita de um documento prévio, contendo uma descrição,
+objetivos e lugar para posterior anotação dos resultados.
+6.12.3 A aquisição de material a ser utilizado para o desenvolvimento feito pela equipa é
+passı́vel de ser feita, desde que justificado e enquadrado no orçamento global.
+6.12.4 Qualquer custo associado a um dano intencional ao património, promovido pelo membro que o usou deve ser acarretado por este.
+6.12.5 Um componente da posse de um membro, uma vez implementado no protótipo, carece
+de uma autorização da Direção para ser removido.
+6.12.6 Os componentes resultantes de um projeto em ambiente de Dissertação ou Projeto Integrador/Projeto Experimental & Computacional, quando elaborados em colaboração
+com a equipa, pertencentem à mesma.
+
+Formula Student FEUP
+
+27
+
+´
+6.13 Epocas
+Especiais
+6.13.1 Pode ser proposto à Direção da FEUP o acesso de um Membro a Épocas Especiais.
+6.13.2 A quantidade de acessos por Época é definida pelo Faculty Advisor e Team Leader.
+6.13.3 O Membro interessado deverá informar o seu Department Leader da necessidade de
+proposta.
+6.13.4 Carece de uma aprovação por parte da Direção de equipa, com base em:
+6.13.4.1 Proatividade e impacto do Membro individual.
+6.13.4.2 Análise macro da comparação dos interessados em relação às vagas disponı́veis.
+
+Formula Student FEUP
+
+28
+
+Chapter 7
+
+Sobre o Regulamento Geral
+7.1 Vigência
+7.1.1 O presente Regulamento encontra-se em vigor desde o momento em que aprovado e
+apresentado.
+7.1.2 O presente Regulamento é considerado caducado a partir do momento de entrada em
+vigor de Regulamento retificado.
+
+7.2 Revisão
+7.2.1 O presente Regulamento deve ser revisto sempre que considerado pertinente.
+7.2.2 Se retificado, o Regulamento Geral revisto deve ser proposto a aprovação.
+
+7.3 Casos Omissos
+7.3.1 Qualquer eventualidade que não seja abrangida pelo presente Regulamento deve ser
+decidida pela Direção, segundo critérios de razoabilidade e funcionalidade.
+
+7.4 Protocolos
+7.4.1 Extensões ao Regulamento Geral podem ser executadas pela Board - denominadas de
+Protocolos.
+7.4.2 Os protocolos nunca devem isolada- ou coletivamente sobrepor-se ao presente Regulamento Geral, cuja autoridade é máxima.
+
+Formula Student FEUP
+
+29
+
+
