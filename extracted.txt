@@ -247,7 +247,7 @@ que ocupa, ou cooptado pela Board.
 ocupa.
 3.1.2 Estatutos Pessoais Não Executivos
 3.1.2.1 Faculty Advisor - Docente da Universidade do Porto, indigitado pela Board.
-3.1.2.2 Alumni - ex-membro da equipa.
+3.1.2.2 Alumnus - ex-membro da equipa.
 
 Formula Student FEUP
 
@@ -475,7 +475,7 @@ coordenação com a Direção em final de Mandato.
 estar dos membros da equipa, assim como o cumprimento das regras de conduta prescrita pelo paı́s da competição e regras da competição.
 3.3.3.6 Contribuir como ferramenta de validação do trabalho desenvolvido pela equipa,
 de acordo com a sua área de saber enquanto docente na Universidade do Porto.
-3.3.4 O estatuto de Alumni tem um conjunto de Direitos:
+3.3.4 O estatuto de Alumnus tem um conjunto de Direitos:
 3.3.4.1 Opinar e discutir sobre toda e qualquer atividade da equipa.
 3.3.4.2 Ser reconhecido pelo contributo proporcionado à equipa, de um ponto de vista
 interno e externo.
