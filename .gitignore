@@ -12,3 +12,8 @@
 *.blg
 *.nav
 *.snm
+*.aux
+*.fdb*
+*.fls
+*.log
+*.gz
